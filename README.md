@@ -2,7 +2,7 @@
  # 🚀 Exercícios Iniciais em Kotlin
 <h2>Este repositório contém minhas soluções para os exercícios iniciais em Kotlin oferecidos pelo treinamento Android for Developers da Google. São atividades simples de treinamento e correção de códigos de print e sintaxe.</h2>
 
-<h3>Exercícios
+<h3>Exercícios <br>
 👋 Imprimir Três algarismos <br>
 🔄 Imprimir uma mensagem padrão <br>
 🛑 Imprimir dias da semanas corrigindo código <br>
