@@ -1,15 +1,15 @@
+# 🚀 Initial Kotlin Exercises
 
- # 🚀 Exercícios Iniciais em Kotlin
-<h2>Este repositório contém minhas soluções para os exercícios iniciais em Kotlin oferecidos pelo treinamento Android for Developers da Google. São atividades simples de treinamento e correção de códigos de print e sintaxe.</h2>
+<h2>This repository contains my solutions for the initial Kotlin exercises offered by the Android for Developers training program by Google. These are simple training activities aimed at practicing printing and syntax correction.</h2>
 
-<h3>Exercícios <br>
-👋 Imprimir Três algarismos <br> <hr>
-🔄 Imprimir uma mensagem padrão <br> <hr>
-🛑 Imprimir dias da semanas corrigindo código <br> <hr>
-📋 Imprimir uma mensagem simples <br> <hr>
-🔡 Imprimir outra mensagem e corrigir a sintaxe <br> <hr>
-🔄 Imprimir três mensagens <br> <hr>
-🧩 Imprimir uma pergunta <br> <hr>
-🔆 Imprimir Hello World  <br> <hr>
-🔰 Imprimir Hello Android
+<h3>Exercises <br>
+👋 Print Three Digits <br> <hr>
+🔄 Print a Default Message <br> <hr>
+🛑 Print Weekdays Correcting Code <br> <hr>
+📋 Print a Simple Message <br> <hr>
+🔡 Print Another Message and Correct Syntax <br> <hr>
+🔄 Print Three Messages <br> <hr>
+🧩 Print a Question <br> <hr>
+🔆 Print Hello World  <br> <hr>
+🔰 Print Hello Android
 </h3>
